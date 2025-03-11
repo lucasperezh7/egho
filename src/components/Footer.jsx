@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
       <div className="social-icons">
         <a
-          href="https://www.spotify.com"
+          href="https://open.spotify.com/intl-es/artist/6QoLtA9FRj5uZmttg3gVWt"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"
@@ -18,7 +18,7 @@ const Footer = () => {
           <i className="fab fa-spotify"></i>
         </a>
         <a
-          href="https://www.youtube.com"
+          href="https://www.youtube.com/@Egho"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"
@@ -26,7 +26,7 @@ const Footer = () => {
           <i className="fab fa-youtube"></i>
         </a>
         <a
-          href="https://www.instagram.com"
+          href="https://www.instagram.com/egho.rs/"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"
@@ -34,7 +34,7 @@ const Footer = () => {
           <i className="fab fa-instagram"></i>
         </a>
         <a
-          href="https://www.twitter.com"
+          href="https://www.tiktok.com/@egho.rs?lang=es"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"

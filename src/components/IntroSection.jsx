@@ -23,7 +23,7 @@ const IntroSection = () => {
             <ul className="social-links">
               <li>
                 <a
-                  href="https://spotify.com"
+                  href="https://open.spotify.com/intl-es/artist/6QoLtA9FRj5uZmttg3gVWt"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -33,7 +33,7 @@ const IntroSection = () => {
               </li>
               <li>
                 <a
-                  href="https://youtube.com"
+                  href="https://www.youtube.com/@Egho"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -43,7 +43,7 @@ const IntroSection = () => {
               </li>
               <li>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/egho.rs/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -54,7 +54,7 @@ const IntroSection = () => {
               </li>
               <li>
                 <a
-                  href="https://www.tiktok.com"
+                  href="https://www.tiktok.com/@egho.rs?lang=es"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
